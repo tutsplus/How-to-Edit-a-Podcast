@@ -1,4 +1,4 @@
-# How-to-Edit-a-Podcast
+# How to Edit a Podcast
 
 Learn how to edit a podcast! Our expert instructor Dave will teach you everything you need to know to go from raw audio files to a polished, professional podcast. You'll learn how to use Reaper, a powerful and affordable audio editing app (with a free trial), and get to grips with the basics of podcast editing.
 
